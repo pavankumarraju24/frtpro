@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'GamingWonderland'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0734CB4BCE334681926E59F745C374E3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C77EE8E6199E4B0A8FB9016ADB34ADD6 }}
           package: .
