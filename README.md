@@ -8,9 +8,9 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Gaming
+Industry : Edtech
 
-Project Title : Gamingworld
+Project Title : GamingWonderland
 
 Problem Statement/Opportunity : Every One can play different games based upon their intrest.
 
